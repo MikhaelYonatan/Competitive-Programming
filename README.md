@@ -1,2 +1,2 @@
 # Competitive-Programming
-Personal documentation in LEARNING competitive programming
+Personal documentation in LEARNING competitive programming.
